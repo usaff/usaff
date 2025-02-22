@@ -1,19 +1,10 @@
 <img alt="Banner Image" src="Untitled (3).png" style="width:100%; height:auto;"><br>
 
-<h2 align="center" style="color:#00BFFF; animation: glow 1.5s infinite alternate;">💡Welcome to My Coding World!💡 </h2>
-<marquee behavior="scroll" direction="left" scrollamount="10" style="color:#4CAF50; font-size:20px;">
+<h2 align="center">💡 Welcome to My Coding World! 💡</h2>
+
+<p align="center">
   💻 Data Analyst | 📊 Business Intelligence | 🐍 Python Enthusiast | 🔍 Lifelong Learner | 📈 Transforming Data into Stories 🚀
-</marquee>
-<style>
-@keyframes glow {
-  from {
-    text-shadow: 0 0 10px #00BFFF, 0 0 20px #00BFFF, 0 0 30px #00BFFF;
-  }
-  to {
-    text-shadow: 0 0 20px #1E90FF, 0 0 30px #1E90FF, 0 0 40px #1E90FF;
-  }
-}
-</style>
+</p>
 
 ---
 
@@ -98,9 +89,7 @@
 
 ## 🏆 GitHub Trophies
 
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark" alt="GitHub Trophies" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
