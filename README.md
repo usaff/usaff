@@ -3,8 +3,9 @@
 <h2 align="center">💡 Welcome to My Coding World! 💡</h2>
 
 <p align="center">
-  💻 Data Analyst | 📊 Business Intelligence | 🐍 Python Enthusiast | 🔍 Lifelong Learner | 📈 Transforming Data into Stories 🚀
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=800&lines=💻+Data+Analyst+|+📊+Business+Intelligence+|+🐍+Python+Enthusiast+|+🔍+Lifelong+Learner+|+📈+Transforming+Data+into+Stories+🚀" alt="Typing SVG" />
 </p>
+****
 
 ---
 
@@ -76,7 +77,8 @@
 
 <h2>📊 GitHub Stats:</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=usaff&show_icons=true&theme=radical" alt="GitHub Stats">
+
 <br/>
 
 <h2>📖 Quote of the Day</h2>
