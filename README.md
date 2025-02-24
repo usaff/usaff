@@ -5,9 +5,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=800&lines=💻+Data+Analyst+|+📊+Business+Intelligence+|+🐍+Python+Enthusiast+|+🔍+Lifelong+Learner+|+📈+Transforming+Data+into+Stories+🚀" alt="Typing SVG" />
 </p>
-****
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=usaff&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 # **💫 About Me:**<a href="https://www.datascienceportfol.io/yousafawan0000" target="_blank" style="text-decoration: none; color:rgb(16, 110, 217); font-weight: bold;">
 
