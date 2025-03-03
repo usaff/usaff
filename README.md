@@ -29,7 +29,8 @@
       <li>power BI</li>
     </ul>
   </li>
-<li>🎉 <strong>Fun Fact</strong>: I have a love-hate relationship with Excel. It’s like that friend who’s helpful 90% of the time but crashes when you need them most. 😅</li>
+<li>🎉 <strong>Fun Fact</strong>: Being a data analyst means spending 90% of your time cleaning data… and the other 10% wondering why it’s still messy. 🤯😂</li>
+
 <p> <br>
 
  <h2>🌍 Social<h2>
