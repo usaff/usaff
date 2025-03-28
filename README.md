@@ -1,6 +1,6 @@
 <img alt="Banner Image" src="Untitled (3).png" style="width:100%; height:auto;"><br>
 
-<h2 align="center">💡 Welcome to My Coding World! 💡</h2>
+<h2 align="center">📊 Welcome to My Data-Driven World! 🔍</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=800&lines=💻+Data+Analyst+|+📊+Business+Intelligence+|+🐍+Python+Enthusiast+|+🔍+Lifelong+Learner+|+📈+Transforming+Data+into+Stories+🚀" alt="Typing SVG" />
