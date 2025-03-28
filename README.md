@@ -78,38 +78,43 @@
   </p>
 </div>
 
+<!-- 📊 GitHub Stats -->
 <h2>📊 GitHub Stats:</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usaff&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github" alt="GitHub Stats">
+</p>
 
+<!-- 🔥 GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usaff&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=usaff&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github" alt="GitHub Stats">
-
-
-
-
-
-<br/>
-
-<h2>📖 Quote of the Day</h2>
-
- <p align="center">
-  <img src="https://zenquotes.io/api/image" alt="Quote 1" width="300">
+<!-- 🚀 GitHub Trophies -->
+<h2>🏆 GitHub Trophies:</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=usaff&theme=radical&column=6&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=USAFF&icon=0&color=0)](https://visitcount.itsvg.in)
----
-## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- 🎭 Quote of the Day -->
+<h2>📖 Quote of the Day:</h2>
+
+<p align="center">
+  <img src="https://zenquotes.io/api/image" alt="Quote of the Day" width="300">
+</p>
+
+---
+
+<!-- 📌 Visitor Count -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=USAFF&icon=0&color=0" alt="Profile Views Counter">
+</p>
 
 ---
 
 <div align="center">
-
   <h2 style="color: #4CAF50;">👋 Thanks for visiting my profile!</h2>
   <p style="font-size: 16px; color: #555;">Feel free to explore and connect. 🚀</p>
-
 </div>
-<h3>
