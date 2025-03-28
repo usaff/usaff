@@ -65,7 +65,6 @@
 <br><br> <!-- Adds vertical space between the divs -->
 
 
-<!-- 🚀 Languages & Tools -->
 <h2>💻 Languages & Tools:</h2>
 
 <p align="center">
@@ -79,7 +78,7 @@
 
 
 
-<!-- 📊 GitHub Stats -->
+
 <h2>📊 GitHub Stats:</h2>
 
 <p align="center">
