@@ -79,7 +79,10 @@
 </div>
 
 <h2>📊 GitHub Stats:</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=usaff&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats">
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=usaff&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=false&custom_title=My GitHub Stats&hide_border=true&card_width=500" alt="GitHub Stats">
+
 
 
 
