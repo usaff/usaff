@@ -98,7 +98,8 @@
 </p>
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=USAFF&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
