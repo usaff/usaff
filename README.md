@@ -79,8 +79,8 @@
 </div>
 
 <h2>📊 GitHub Stats:</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=usaff&show_icons=true&theme=radical" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide=prs,issues" alt="GitHub Stats">
+>
 
 <br/>
 
