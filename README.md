@@ -64,9 +64,12 @@
 
 <br><br> <!-- Adds vertical space between the divs -->
 
-<div>
-  <h2>💻 Languages & Tools</h2>
-  <p>
+---
+
+<!-- 🚀 Languages & Tools -->
+<h2>💻 Languages & Tools:</h2>
+
+<p align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -75,8 +78,9 @@
     <a href="https://leetcode.com/your-username" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
     </a>
-  </p>
-</div>
+</p>
+
+---
 
 <!-- 📊 GitHub Stats -->
 <h2>📊 GitHub Stats:</h2>
@@ -107,12 +111,6 @@
 
 ---
 
-<!-- 📌 Visitor Count -->
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=USAFF&icon=0&color=0" alt="Profile Views Counter">
-</p>
-
----
 
 <div align="center">
   <h2 style="color: #4CAF50;">👋 Thanks for visiting my profile!</h2>
